@@ -333,3 +333,5 @@ The following table summarizes the core signal paths (representative nets):
 
 *Document generated: June 28, 2026*  
 *Circuit design tool: NI Multisim 14.3*
+<img width="1462" height="1118" alt="image" src="https://github.com/user-attachments/assets/2277f0bb-0683-4c89-aac5-74eb73b436af" />
+
